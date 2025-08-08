@@ -63,7 +63,10 @@ Sales reps regularly consult with customers to understand their work environment
 ### ✅ Expected Output
 - **Primary Recommendation**: TenActiv™ S18TAXGFN
 - **Attributes**: Cut Level A6, CFIA compliant, foam nitrile palm, high dexterity
-- **Alternatives**: TenActiv™ STAGFN, Emerald CX™ ECX18G
+- **Justification**: This glove is engineered for food-safe environments with a high cut rating (A6), a CFIA-compliant shell, and fine 18-gauge knit for maximum dexterity and tactile control.
+- **Alternatives**: 
+-    *TenActiv™ STAGFN – Lower cut level (A4) for less extreme conditions
+-    *Emerald CX™ ECX18G – Also CFIA-approved with steel-reinforced fibers
 
 ---
 
@@ -73,7 +76,10 @@ Sales reps regularly consult with customers to understand their work environment
 ### ✅ Expected Output
 - **Primary Recommendation**: Endura® 378GKTFG
 - **Attributes**: Arc flash rated, goat-grain leather, foam nitrile palm, high dexterity
-- **Alternatives**: Endura® 378GOBKL, Endura® 378KGTVB
+- **Justification**: Combines arc flash protection with a supple goat-grain leather shell, providing excellent control for precision tasks while meeting electrical hazard safety standards.
+- **Alternatives**:
+-       *Endura® 378GOBKL – Higher durability but less finger flexibility
+-       *Endura® 378KGTVB – Impact-resistant with Kevlar lining for rugged environments
 
 ---
 
