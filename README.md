@@ -78,8 +78,8 @@ Sales reps regularly consult with customers to understand their work environment
 - **Attributes**: Arc flash rated, goat-grain leather, foam nitrile palm, high dexterity
 - **Justification**: Combines arc flash protection with a supple goat-grain leather shell, providing excellent control for precision tasks while meeting electrical hazard safety standards.
 - **Alternatives**:
--       *Endura® 378GOBKL – Higher durability but less finger flexibility
--       *Endura® 378KGTVB – Impact-resistant with Kevlar lining for rugged environments
+-    *Endura® 378GOBKL – Higher durability but less finger flexibility
+-    *Endura® 378KGTVB – Impact-resistant with Kevlar lining for rugged environments
 
 ---
 
