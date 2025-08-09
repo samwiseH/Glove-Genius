@@ -109,9 +109,9 @@ Sales reps regularly consult with customers to understand their work environment
 •	All prompts and outputs will be logged with metadata (rep ID, customer type, product suggested)
 
 •	LangSmith will be used for:
-  o	Prompt tracing and debugging
-  o	Usage analytics
-  o	Monitoring model drift and performance over time
+-  o	Prompt tracing and debugging
+-  o	Usage analytics
+-  o	Monitoring model drift and performance over time
   
 •	Priority reviews for suggestions made to top-tier accounts
 
