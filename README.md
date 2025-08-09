@@ -98,17 +98,22 @@ Sales reps regularly consult with customers to understand their work environment
 
 ## 📈 Evaluation Strategy
 •	Use of automated evaluation frameworks (e.g., LangChain evaluators or custom metrics) to compare AI recommendations against expert rules and historical rep suggestions
+
 •	Feedback collection from sales reps via inline ratings and comments
+
 •	Flagging logic to prevent AI from recommending items that are below minimum viable stock levels
 
 ---
 
 ## 🔎 Observability Plan
--•	All prompts and outputs will be logged with metadata (rep ID, customer type, product suggested)
--•	LangSmith will be used for:
+•	All prompts and outputs will be logged with metadata (rep ID, customer type, product suggested)
+
+•	LangSmith will be used for:
 -  o	Prompt tracing and debugging
 -  o	Usage analytics
 -  o	Monitoring model drift and performance over time
+-  
 -•	Priority reviews for suggestions made to top-tier accounts
+
 -•	Alerting system to catch invalid outputs (e.g., no substitutions found, inaccurate hazard matching)
 
